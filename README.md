@@ -39,7 +39,7 @@ A premium, real-time cryptocurrency dashboard built with React and FastAPI. Feat
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/crypto-dashboard.git
+   git clone https://github.com/Kausal-dev/crypto-dashboard.git
    cd crypto-dashboard
    ```
 
