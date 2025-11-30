@@ -1,0 +1,26 @@
+.crypto-card {
+    padding: var(--spacing-lg);
+    transition: all var(--transition-base);
+    animation: fadeIn 0.6s ease-out;
+}
+
+.crypto-card:hover {
+    transform: translateY(-4px);
+}
+
+.crypto-card.chart-card {
+    padding: var(--spacing-md);
+    min-height: 400px;
+}
+
+.crypto-card.stats-grid {
+    padding: 0;
+    background: transparent;
+    border: none;
+    box-shadow: none;
+}
+
+.crypto-card.stats-grid:hover {
+    transform: none;
+    background: transparent;
+}
