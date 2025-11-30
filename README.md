@@ -2,7 +2,7 @@
 
 A premium, real-time cryptocurrency dashboard built with React and FastAPI. Features live price tracking, interactive charts, and a modern glassmorphism UI.
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/DRyA4NU" data-context="false" ><a href="//imgur.com/a/DRyA4NU"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+[img]https://i.imgur.com/Cxfqzw5.png[/img]
 
 ## ✨ Features
 
